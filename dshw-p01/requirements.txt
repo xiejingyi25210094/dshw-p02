@@ -1,0 +1,12 @@
+akshare
+CSMAR
+baostock
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+pyarrow
+notebook
+jupyter
+statsmodels
